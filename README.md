@@ -4,6 +4,7 @@
 <h1 align="center">
 I'm Keshav Gupta, a self-motivated full stack web developer.
 </h1>
+<img src="https://drive.google.com/file/d/1Va93VsGRye53cUohcYcHL6R-54nD20xE/view" alt="stacks"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshavgupta848101)](https://github.com/anuraghazra/github-readme-stats)
 </section>
